@@ -119,19 +119,19 @@ Main Sales Dashboard
 Best & Worst Sellers Dashboard
 
 ![Best & Worst Sellers Dashboard](best_worst_sellers.png)
-🧮 DAX Measures
+
+## 🧮 DAX Measures
 
 DAX measures were created to calculate important business KPIs dynamically.
 
 The main measures include:
 
-"text
+```text
 Total Revenue
 Total Orders
 Total Pizzas Sold
 Average Order Value
 Average Pizzas Per Order
-"
 
 These measures respond dynamically to dashboard filters and slicers.
 
@@ -184,20 +184,14 @@ The analysis helps identify products with different levels of sales performance.
 
 📁 Project Structure
 
-"text
+```text
 Pizza-Sales-PowerBI-Analysis/
 │
 ├── README.md
-│
-├── Dataset/
-│   └── pizza_sales.csv
-│
-├── PowerBI/
-│   └── Pizza_Sales_PowerBI_Analysis.pbix
-│
-└── Dashboard/
-    └── dashboard.png
-"
+├── pizza_sales.csv
+├── Pizza_Sales.pbix
+├── main_dashboard.png
+└── best_worst_sellers.png
 
 ---------------------------------------
 
