@@ -196,13 +196,13 @@ Pizza-Sales-PowerBI-Analysis/
 
 🚀 How to Use This Project
 
-1. Download the Power BI ".pbix" file from the "PowerBI" folder.
+1. Download the Power BI ".pbix" file from the repository.
 2. Open the file using "Microsoft Power BI Desktop".
 3. Explore the dashboard pages.
 4. Use the available slicers to filter the analysis.
 5. Interact with the visualizations to explore sales trends, categories, sizes, and pizza performance.
 
-----------------------------------------
+------------------------------------------
 
  Skills Demonstrated
 
