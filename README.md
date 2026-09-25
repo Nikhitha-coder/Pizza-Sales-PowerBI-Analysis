@@ -110,16 +110,15 @@ It includes:
 This page allows users to compare pizza products using multiple performance metrics.
 
 ---------------------------------------
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-Main Sales Dashboard
+### Main Sales Dashboard
 
-![Main Sales Dashboard](main_dashboard.png)
+![Main Sales Dashboard](main_dashboard.png.png)
 
-Best & Worst Sellers Dashboard
+### Best & Worst Sellers Dashboard
 
-![Best & Worst Sellers Dashboard](best_worst_sellers.png)
-
+![Best & Worst Sellers Dashboard](best_worst_sellers.png.png)
 ## 🧮 DAX Measures
 
 DAX measures were created to calculate important business KPIs dynamically.
